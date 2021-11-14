@@ -1,0 +1,19 @@
+{
+  "name": "@ss2/ss2-designs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharmsa66/ss2-designs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharmsa66/ss2-designs/issues"
+  },
+  "homepage": "https://github.com/sharmsa66/ss2-designs#readme"
+}
