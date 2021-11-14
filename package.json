@@ -7,7 +7,8 @@
         "lint": "stylelint './**/*.scss'",
         "lint:fix": "npm run lint --fix",
         "build": "node src/scripts/build.js",
-        "dev": "nodemon --watch src --exec yarn build -e scss"
+        "dev": "nodemon --watch src --exec yarn build -e scss",
+        "prepare": "husky install"
     },
     "repository": {
         "type": "git",
@@ -24,7 +25,7 @@
         "normalize-scss": "^7.0.1"
     },
     "devDependencies": {
-        "husky": "^7.0.4",
+        "husky": "^7.0.0",
         "lint-staged": "^12.0.2",
         "prettier": "^2.4.1",
         "stylelint": "^14.1.0",
