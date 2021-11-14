@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sharmsa66/ss2-designs/issues"
   },
-  "homepage": "https://github.com/sharmsa66/ss2-designs#readme"
+  "homepage": "https://github.com/sharmsa66/ss2-designs#readme",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
 }
